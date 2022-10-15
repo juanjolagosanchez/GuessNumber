@@ -1,6 +1,6 @@
 ## Introducción 📖
 
-Progama de hecho para deint en el curso 21-22, el programa consiste en tres activity, en la primera pedimos Pedimos los datos al usuario en la segunda se produce un juego y en la tercera te dice que has ganado y el numero de intentos.
+Progama de hecho para deint en el curso 22-23, es un juego para adivinar el numero, el programa consiste en tres activity, en la primera pedimos Pedimos los datos al usuario en la segunda se produce un juego y en la tercera te dice que has ganado y el numero de intentos.
 
 ## Programación ⌨️
 Para comenzar la aplicació comienza en el ConfigActivity en el que pedimos al usuario sus datos,
