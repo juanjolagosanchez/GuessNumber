@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adivina el numero</string>
+    <string name="jugador">Jugador</string>
+    <string name="textview">Intentos</string>
+    <string name="edPlayer">Jugador</string>
+    <string name="edAttemps">Intentos</string>
+    <string name="btnPlay">¡A Jugar!</string>
+    <string name="btnTest">Comprobar</string>
+    <string name="tvResult">Resultado</string>
+    <string name="btnReset">Resetear</string>
+    <string name="tvFinal">Ganador</string>
+    <string name="LowerNumber">El numero es menor</string>
+    <string name="higherNumber">El numero es mayor</string>
+    <string name="WinnerNumber">¡Has Ganado!</string>
+    <string name="Loser">Lo siento has perdido</string>
+    <string name="edNumber">introduce el numero</string>
+</resources>

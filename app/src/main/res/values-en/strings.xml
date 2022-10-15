@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="jugador">Player</string>
+    <string name="textview">Attempts</string>
+    <string name="edPlayer">Player</string>
+    <string name="edAttemps">Attempts</string>
+    <string name="btnPlay">Lets Play!</string>
+    <string name="btnTest">check</string>
+    <string name="btnReset">Reset</string>
+    <string name="tvResult">Outcome</string>
+    <string name="tvFinal">Winner</string>
+    <string name="LowerNumber">The number is lower</string>
+    <string name="higherNumber">The number is higher</string>
+    <string name="WinnerNumber">You win!</string>
+    <string name="Loser">Sorry you lose</string>
+    <string name="edNumber">enter the number</string>
+</resources>
